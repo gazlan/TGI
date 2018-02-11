@@ -1,0 +1,7 @@
+-*-   TGI 1.0   *   (c) gazlan 2011   -*-
+
+Empty FileInfo Creator for TG
+
+Usage: tgi.exe [FullPath]
+
+complains_n_suggestions direct to gazlan@yandex.ru
